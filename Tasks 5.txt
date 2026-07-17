@@ -1,1 +1,0 @@
-Write a program having class named Distance, with private members feet and inches. class should contain three constructors ( constructor overloading ). Also add setter and getter method for updating members values. Display the values through display method. Add a method that should convert the values from one unit to another of your own choice.   

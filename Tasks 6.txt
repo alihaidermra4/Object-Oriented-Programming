@@ -1,4 +1,0 @@
-
-Write a program where your class name should be Animal, containing class members name, category, legs etc. create different method like constructor overloading, updation , showing data and destructor. make three objects and one object that copy another object ( copy constructor ). update the data if required and compare to see if its changed or not.
-
-Do it for dynamic class members as well in other program.

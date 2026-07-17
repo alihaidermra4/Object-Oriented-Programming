@@ -1,1 +1,0 @@
-Write a program having class named BMICalculator for European region where weight is calculated in pounds and height in feet and inches. Covert the values into kilogram and meter and calculate the BMI using formula and display the value. Show user if he or she is healthy, underweight or overweight.

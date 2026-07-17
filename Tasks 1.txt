@@ -1,1 +1,0 @@
-Write a program that includes a class named 'Student_Grades'. The class should accept user input for a student's name, five subjects, and the corresponding grades, storing them in private variables. Finally, the program should display the collected information.
